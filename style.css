@@ -1,0 +1,61 @@
+*{
+    margin: 0; 
+    padding: 0; 
+} 
+h1{
+    color: #fff;
+    background:green; 
+    text-align: center;
+    font-size: 80px;
+    padding-bottom: 5px;
+    margin: auto;
+}
+h2{
+    color:#fff;
+    background: rgb(33, 209, 33);
+    text-align: center;
+    font-size: 70px; 
+} 
+h3{
+    color: #fff;
+    background:yellow;
+    font-size: 60px;
+    text-align: center;
+} 
+h4{
+    color: #fff;
+    background:red;
+    text-align: center;
+    font-size: 50px;
+} 
+h5{
+    color: #fff;
+    background: orange;
+    font-size: 40px;
+    text-align: center; 
+}
+h6{
+    color: #fff;
+    background:gray;
+    text-align: center;
+    font-size: 30px; 
+} 
+p{
+    color: #fff;
+    background: rgb(191, 194, 25);
+    text-align: center;
+     font-size: 30px; 
+} 
+.div{
+    color: #Ffff;
+    background:blue;
+    text-align: center; 
+    font-size: 32px; 
+} 
+
+.container{
+     color: #fff;
+     background: rgb(37, 11, 238);
+     text-align: center;
+     font-size: 34px;
+} 
